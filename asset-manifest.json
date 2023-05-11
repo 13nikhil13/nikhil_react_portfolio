@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/nikhil_react_portfolio/static/css/main.add65f9d.css",
+    "main.js": "/nikhil_react_portfolio/static/js/main.615843d1.js",
+    "static/media/My project.png": "/nikhil_react_portfolio/static/media/My project.e2f0dcfa587a148bcf25.png",
+    "static/media/resume.pdf": "/nikhil_react_portfolio/static/media/resume.95feae6ddf6796c34fde.pdf",
+    "static/media/profile2.jpg": "/nikhil_react_portfolio/static/media/profile2.9dd2c9d7293c1cf7920e.jpg",
+    "static/media/profile1.jpg": "/nikhil_react_portfolio/static/media/profile1.8706c2e26f151ccf12b2.jpg",
+    "static/media/glassesimoji.png": "/nikhil_react_portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/portfolio-4.jpg": "/nikhil_react_portfolio/static/media/portfolio-4.ebbd11fb001d335af299.jpg",
+    "static/media/profile3.jpg": "/nikhil_react_portfolio/static/media/profile3.e04f3ea8cad0b8eae197.jpg",
+    "static/media/js.png": "/nikhil_react_portfolio/static/media/js.ed9632a2877bef14d4a3.png",
+    "static/media/portfolio-5.png": "/nikhil_react_portfolio/static/media/portfolio-5.c176368186e02b48c753.png",
+    "static/media/portfolio-2.jpg": "/nikhil_react_portfolio/static/media/portfolio-2.ea5c2367680c0c0b7bea.jpg",
+    "static/media/portfolio-3.jpg": "/nikhil_react_portfolio/static/media/portfolio-3.d567d06745919ddf70b4.jpg",
+    "static/media/profile4.jpg": "/nikhil_react_portfolio/static/media/profile4.c39ccd4b668b4bbb17ca.jpg",
+    "static/media/react.png": "/nikhil_react_portfolio/static/media/react.152cd310730d7e4bb71f.png",
+    "static/media/py.png": "/nikhil_react_portfolio/static/media/py.a62ad42657402eafce47.png",
+    "static/media/humble.png": "/nikhil_react_portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/nikhil_react_portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/nikhil_react_portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/nikhil_react_portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/nikhil_react_portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/nikhil_logo1.ico": "/nikhil_react_portfolio/static/media/nikhil_logo1.3d7600c08986ada733fc.ico",
+    "index.html": "/nikhil_react_portfolio/index.html",
+    "main.add65f9d.css.map": "/nikhil_react_portfolio/static/css/main.add65f9d.css.map",
+    "main.615843d1.js.map": "/nikhil_react_portfolio/static/js/main.615843d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add65f9d.css",
+    "static/js/main.615843d1.js"
+  ]
+}
